@@ -7,7 +7,7 @@ Proyek ini membandingkan dua metode clustering:
 - **K-Means** → berbasis centroid
 - **DBSCAN** → berbasis kepadatan & deteksi outlier
 
-Dataset: `NHANES_age_prediction.csv` (2.278 observasi, 10 fitur)  
+Dataset: `NHANES.csv` (2.278 observasi, 10 fitur)  
 Fokus: Segmentasi berdasarkan variabel metabolik (BMI, glukosa, insulin, usia).  
 
 ---
